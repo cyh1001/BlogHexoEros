@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /drafts/
+Sitemap: https://www.caoyihan.com/sitemap.xml
