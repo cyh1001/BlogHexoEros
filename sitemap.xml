@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eros.caoyihan.com/2025/08/29/desuwa/</loc>
+    
+    <lastmod>2025-08-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eros.caoyihan.com/2025/08/24/assorted-links-2025-08/</loc>
     
     <lastmod>2025-08-25</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://eros.caoyihan.com/</loc>
-    <lastmod>2025-08-25</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
